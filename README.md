@@ -6,9 +6,9 @@ The Bohudur WHMCS Library enables effortless integration of the Bohudur payment 
 ## Installation
 To install the Bohudur WHMCS module, follow these steps:
 
-1. Download [WHMCS-Bohudur.zip](https://github.com/BohudurOne/WHMCS-Module/raw/refs/heads/main/WHMCS-Bohudur.zip) file.
+1. Download [Bohudur.zip](https://github.com/BohudurOne/WHMCS-Module/raw/refs/heads/main/Bohudur.zip) file.
 
-2. Upload the `WHMCS-Bohudur.zip` file to your WHMCS gateways directory.
+2. Upload the `Bohudur.zip` file to your WHMCS gateways directory.
 
 3. Extract the ZIP file within your gateways directory.
 
